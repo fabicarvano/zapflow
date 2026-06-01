@@ -1,0 +1,13 @@
+Olá {nome}, tudo bem?
+
+Passando para relembrar o nosso Almoço Executivo “Segurança na Era da IA: do Endpoint ao Prompt”, que acontecerá nesta quarta-feira, dia 27/05, às 12h, no Fogo de Chão de Botafogo.
+
+Esse é um tema cada vez mais crítico para as empresas. Hoje, organizações brasileiras já sofrem em média 4.118 ataques por semana, e 90% das empresas que utilizam IA generativa já tiveram exposição de dados sensíveis:
+https://convergenciadigital.com.br/mercado/empresas-brasileiras-sofreram-4118-ataques-hackers-por-semana-ia-generativa-expoe-dados-sensiveis-de-90-das-organizacoes/
+
+Será um encontro objetivo e prático sobre os novos riscos envolvendo IA, identidade e proteção de dados, além de uma excelente oportunidade de networking com líderes e executivos do mercado.
+
+Nos vemos quarta-feira!
+
+Fábio Carvano
+Decatron
